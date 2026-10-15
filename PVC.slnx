@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PVC.Cadenas.UnitTestAppxUnit/PVC.Cadenas.UnitTestAppxUnit.csproj" />
+  <Project Path="PVC.Cadenas/PVC.Cadenas.csproj" />
+  <Project Path="PVC.Temperatura.UnitTestMSTest/PVC.Temperatura.UnitTestMSTest.csproj" />
+  <Project Path="PVC.Temperatura/PVC.Temperatura.csproj" />
+</Solution>
